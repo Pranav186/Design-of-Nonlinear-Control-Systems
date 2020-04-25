@@ -1,1 +1,1 @@
-Course Project based on Nonlinear Adaptive Control of Permanent Magnet Synchronous Motor
+Course Project based on Nonlinear Adaptive Control of Permanent Magnet Synchronous Motor(PMSM)
